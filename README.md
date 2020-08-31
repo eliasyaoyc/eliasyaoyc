@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liushooter&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasyaoyc&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shooter's github stats](https://github-readme-stats.vercel.app/api?username=liushooter&show_icons=true&theme=radical)
+![Shooter's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc&show_icons=true&theme=radical)
 
 <!--
 **eliasyaoyc/eliasyaoyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
