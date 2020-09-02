@@ -5,14 +5,11 @@
 - 🔭 I’m currently working on yunlsp
 - 🌱 Open source fancier in Go, Java , etc.
 - 🏠 Homepage at [sirann.cn](https://eliasyaoyc.github.io/).
-
-[![eliasyaoyc's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc)](https://github.com/eliasyaoyc)
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
 **eliasyaoyc/eliasyaoyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![eliasyaoyc's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc)](https://github.com/eliasyaoyc)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
