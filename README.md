@@ -4,14 +4,14 @@
 
 - 🔭 I’m currently working on yunlsp
 - 🌱 Open source fancier in Go, Java , etc.
-- 🏠 Homepage at [sirann.cn](https://eliasyaoyc.github.io/).
-[![eliasyaoyc's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc)](https://github.com/eliasyaoyc)
+- 🏠 Homepage at [eliasyaoyc.github.io](https://eliasyaoyc.github.io/).
+
+<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--
-<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-
+[![eliasyaoyc's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc)](https://github.com/eliasyaoyc)
 **eliasyaoyc/eliasyaoyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
