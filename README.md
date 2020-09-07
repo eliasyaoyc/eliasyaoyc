@@ -1,14 +1,14 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" align="right">, I'm Elias</h1> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasyaoyc&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 - 🔭 I’m currently working on yunlsp
 - 🌱 Open source fancier in Go, Java , etc.
 - 🏠 Homepage at [eliasyaoyc.github.io](https://eliasyaoyc.github.io/).
 
-<!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasyaoyc&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 [![eliasyaoyc's github stats](https://github-readme-stats.vercel.app/api?username=eliasyaoyc)](https://github.com/eliasyaoyc)
 
 **eliasyaoyc/eliasyaoyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
