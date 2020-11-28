@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" align="right">, I'm Elias</h1> 
 
 - 🔭 I’m currently working on yunlsp
-- 🌱 Open source fancier in Go, Java , etc.
+- 🌱 Open source fancier in Go, Rust, Java , etc.
 - 🏠 Homepage at [eliasyaoyc.github.io](https://eliasyaoyc.github.io/).
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
