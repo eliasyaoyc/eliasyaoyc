@@ -3,5 +3,6 @@
 *I taught myself code. I'm looking for guys that interested in distributed storage.*
 
 - **Things to do in 2021.**
+  - 🖥️  Reinvent the wheel: RISC-V os 
   - 🌈 Reinvent the wheel: crocodileDB
   - 🌈 Lean kubernetes
