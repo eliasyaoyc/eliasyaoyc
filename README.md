@@ -5,4 +5,4 @@
 - **Things to do in 2021.**
   - 🖥️ Reinvent the wheel: RISC-V System
   - 🌈 Reinvent the wheel: crocodileDB(WIP)
-  - 🌈 Lean istio、kubernetes(WIP)
+  - 🌈 Lean istio and kubernetes(WIP)
