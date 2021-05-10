@@ -6,4 +6,4 @@
   - 🖥️ Reinvent the wheel: RISC-V System
   - 🌈 Reinvent the wheel: crocodileDB(WIP)
   - 🌈 Lean istio and kubernetes(WIP)
-  - 💭 now,i'am researching linkerd2-proxy
+  - 💭 now,i'am researching dapr
