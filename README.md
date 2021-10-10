@@ -3,7 +3,6 @@
 *I taught myself code. I'm looking for guys that interested in distributed storage.*
 
 - **Things to do in 2021.**
-  - 🖥️ Reinvent the wheel: RISC-V System
   - 🌈 Reinvent the wheel: crocodileDB(WIP)
   - 🌈 Lean elasticsearch(WIP)
 <!-- <img src="https://img.halfrost.com/Blog/ArticleTitleImage/4.gif"> -->
