@@ -3,8 +3,10 @@
 *I taught myself code. I'm looking for guys that interested in distributed storage.*
 
 - **Things to do in 2021.**
-  - 🌈 Reinvent the wheel: crocodileDB(WIP)
-  - 🌈 Lean elasticsearch(WIP)
+  - 🌈 Reinvent the wheel: crocodileDB(Stage 1 completion)
+  - 🌈 Reinvent the wheel: paxos(WIP)
+  - 🌈 Lean minio(WIP)
+  - 🌈 Lean k8s(WIP)
 <!-- <img src="https://img.halfrost.com/Blog/ArticleTitleImage/4.gif"> -->
 <img src="https://github-readme-svg.vercel.app/api/v1/svg/road?cartype=normal&p=center" alt="My endless road" />
 
