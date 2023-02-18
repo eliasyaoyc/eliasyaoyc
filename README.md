@@ -2,9 +2,9 @@
 
 *I taught myself code. I'm looking for guys that interested in distributed storage.*
 
-- **Things to do in 2022.**
-  - 🌈 Reinvent the wheel: cattlefs
-  - 🌈 Lean k8s
+- **Things to do in 2023.**
+  - 🌈 Complete rookiedb
+  - 🌈 Lean clickhouse
 <!-- <img src="https://img.halfrost.com/Blog/ArticleTitleImage/4.gif"> -->
 <img src="https://github-readme-svg.vercel.app/api/v1/svg/road?cartype=normal&p=center" alt="My endless road" />
 
