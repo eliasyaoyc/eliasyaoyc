@@ -2,8 +2,8 @@
 
 *I'm looking for guys that interested in distributed storage.*
 
-- **Things to do in 2023.**
-  - 🌈 Complete rookiedb
+- **Things to do in 2024.**
+  - 🌈 Lean Kafka
   - 🌈 Lean clickhouse
 <!-- <img src="https://img.halfrost.com/Blog/ArticleTitleImage/4.gif"> -->
 <img src="https://github-readme-svg.vercel.app/api/v1/svg/road?cartype=normal&p=center" alt="My endless road" />
